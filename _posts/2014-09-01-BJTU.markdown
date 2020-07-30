@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Integrating razorpay into your webapp"
-date:   2019-03-23 21:03:36 +0530
-categories: Javascript NodeJS
+title:  "2014.09-2018.07  本科  北京交通大学  通信工程"
+date:   2014-09-10 21:03:36 +0530
+tag: "教育背景"
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+ 
+计算机网络、数据结构、JAVA 语言编程、微机原理与接口技术、通信原理、信号与系统、离散数学 
 
 ```javascript
 const Razorpay = require('razorpay');
@@ -20,9 +21,3 @@ rzp.capture(payment_id, cost)
 		return 2;
 	})
 ```
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
