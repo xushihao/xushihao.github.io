@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "北京交通大学 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;通信与信息系统 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;硕士"
+title:  "北京交通大学      通信与信息系统        硕士"
 date:   2018-09-01 21:03:36 +0530
 categories: "计算机网络 人工智能原理 大数据处理 高等路由原理"
 tag: "教育背景"
