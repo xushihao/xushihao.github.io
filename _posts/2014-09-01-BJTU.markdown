@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "2014.09-2018.07  本科  北京交通大学  通信工程"
-date:   2014-09-10 21:03:36 +0530
+title:  "北京交通大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  通信工程&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 本科"
+date:   2014-09-1 21:03:36 +0530
+categories: JAVA 语言编程 数据结构 微机原理与接口技术 通信原理 信号与系统 离散数学 
 tag: "教育背景"
 ---
  
-计算机网络、数据结构、JAVA 语言编程、微机原理与接口技术、通信原理、信号与系统、离散数学 
+
 
 ```javascript
 const Razorpay = require('razorpay');
