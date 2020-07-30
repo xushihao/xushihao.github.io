@@ -6,6 +6,7 @@ categories: Java Spark Kafka Hopsworks TensorFlow
 ---
 项目描述：项目基于实验室自主研发的Hopswork分布式计算平台，在HopsFS 分布式文件系统上运行。主要用于端到端的大数据分析、机器学习的工作流程框架。 通过Python编写的管道项目，编写数据挖掘、深度学习等相关算法，以Airflow DAG的形式运行在计算平台上，包括数据收集、数据清洗、模型训练优化、模型部署、性能监控等一系列处理步骤.
 
-论文发表：研究成果发表在SCI三区期刊 EURASIP Journal on Wireless Communications and Networking .           
+          
 论文题目为： A Collaborative Cloud - edge Computing Framework in Distributed Neural Network .
+论文发表：研究成果发表在SCI三区期刊 EURASIP Journal on Wireless Communications and Networking . 
 
