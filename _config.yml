@@ -13,14 +13,14 @@ remote_theme: samarsault/plainwhite-jekyll
 sass:
   sass_dir: _sass
 plainwhite:
-  name: 徐 诗浩
-  tagline: JAVA开发. 大数据开发
+  name: 徐诗浩
+  tagline: JAVA开发  大数据开发
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
   dark_mode: true # set to true to add dark mode toggle
   portfolio_image: "assets/portfolio.png" # the path from the base directory of the site to the image to display (no / at the start)
-  html_lang: "en" # set the lang attribute of the <html> tag for the pages. See here for a list of codes: https://www.w3schools.com/tags/ref_country_codes.asp
+  html_lang: "cn" # set the lang attribute of the <html> tag for the pages. See here for a list of codes: https://www.w3schools.com/tags/ref_country_codes.asp
 
   # generate social links in footer
   social_links:
