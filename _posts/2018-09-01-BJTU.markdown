@@ -6,18 +6,7 @@ categories: "计算机网络 人工智能原理 大数据处理 高等路由原�
 tag: "教育背景"
 ---
 
-
-```javascript
-const Razorpay = require('razorpay');
-
-let rzp = Razorpay({
-	key_id: 'KEY_ID',
-	secret: 'name'
-});
-
-// capture request
-rzp.capture(payment_id, cost)
-	.then(function (data) {
-		return 2;
-	})
+```
+主修课程：计算机网络体系与协议、人工智能原理、大数据处理、高等路由原理与技术
+获奖情况：研究生二等学业奖学金、研究生会优秀学生干部
 ```
