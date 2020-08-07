@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "掌握 "
-categories: Java Python SpringBoot Mysql Elasticsearch Openstack Scrapy
+title:  "Java Python Elasticsearch Openstack SpringBoot Mysql Hadoop Kafka Scrapy "
 tag: "技术栈"
 ---
-Java Python SpringBoot Mysql Elasticsearch Openstack Scrapy
-
+```
+熟练：Java Python Elasticsearch Openstack SpringBoot Mysql
+了解：Lua Hadoop Spark Kafka Scrapy
+```
