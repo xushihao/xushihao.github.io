@@ -24,19 +24,19 @@ plainwhite:
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
+    twitter: xushihao
     github:  xushihao
-    linkedIn: in/thelehhman
+    linkedIn: in/xushihao
     rss: rss
-    dribbble: jekyll
-    flickr:   jekyll
-    instagram: jekyll
-    pinterest: jekyll
-    youtube: jekyll
-    facebook: jekyll
-    soundcloud: jekyll
-    telegram: jekyll
-    gitlab: jekyll
+    dribbble: xushihao
+    flickr:   xushihao
+    instagram: xushihao
+    pinterest: xushihao
+    youtube: xushihao
+    facebook: xushihao
+    soundcloud: xushihao
+    telegram: xushihao
+    gitlab: xushihao
 
     # Mastodon instances
     # mastodon:
