@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "360搜索事业部                 服务端开发实习生 "
+title:  "360搜索事业部   服务端开发实习生 "
 date:   2020-06-01 10:00:00 +0530
 categories: Lua Java Openresty ElasticSearch Mysql Nginx  
 tag: "实习经历"
 ---
-实习内容：基于ElasticSearch开发搜索引擎，使用Openresty+Nginx架构，设计lua语言实现的大数据搜索查询服务。 保证服务端的高并发下的可用性，满足跨站检索需求。
+
+实习内容：基于ElasticSearch开发搜索引擎，使用Openresty+Nginx架构，设计lua语言实现的大数据搜索查询服务。 
+         保证服务端的高并发下的可用性，满足跨站检索需求。
 
