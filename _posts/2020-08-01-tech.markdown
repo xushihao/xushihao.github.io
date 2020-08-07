@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Java Python Elasticsearch Openstack SpringBoot Mysql Hadoop Kafka Scrapy "
+title:  "Java+Python+Elasticsearch+Openstack+SpringBoot+Mysql+Kafka"
 tag: "技术栈"
 ---
 ```
