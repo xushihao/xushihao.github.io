@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Java+Python+Elasticsearch+Openstack+SpringBoot+Mysql+Kafka"
+tag: "技术栈"
+---
+```
+精通：Java Elasticsearch Openstack
+熟练：Python SpringBoot Openresty Mysql Kafka
+了解：Lua Hadoop Spark Scrapy
+```
